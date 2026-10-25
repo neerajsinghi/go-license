@@ -1,0 +1,17 @@
+# Binaries
+/golicense
+*.exe
+*.test
+*.out
+/dist/
+
+# Key material and local state produced while experimenting
+*.pem
+*.lic
+*.state
+*.meter
+
+# Editors / OS
+.idea/
+.vscode/
+.DS_Store
